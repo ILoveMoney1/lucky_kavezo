@@ -1,0 +1,33 @@
+ul{
+ display: inline-block;   
+}
+body{
+    background-image: url(../imgs/green.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color:lightgreen ;
+}
+
+div{
+    width:"600";
+    text-align: center;
+}
+h1,h2{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+table{
+    margin-left: auto;
+    margin-right: auto;   
+    border-width: 10px;
+    border-color: black;
+}
+th,td{
+    
+    border-width: 5px ;
+    border-color: black;
+}
+    
+    
