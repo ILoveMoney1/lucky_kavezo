@@ -29,5 +29,9 @@ th,td{
     border-width: 5px ;
     border-color: black;
 }
+img {
+    max-inline-size: 100%;
+    block-size: auto; 
+}
     
     
