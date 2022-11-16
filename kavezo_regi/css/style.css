@@ -2,7 +2,7 @@ ul{
  display: inline-block;   
 }
 body{
-    background-image: url(../imgs/green.jpg);
+    background-image: url(../imgs/abstract-blur-coffee-shop-cafe-restaurant-background-vintage-effect-filter_1339-156426.webp);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -13,9 +13,10 @@ div{
     width:"600";
     text-align: center;
 }
-h1,h2{
+h1,h2,p,ul{
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
 
 }
 table{

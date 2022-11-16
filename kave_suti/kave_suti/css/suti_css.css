@@ -1,0 +1,17 @@
+h1{
+    color: aqua;
+}
+
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: aqua;
+}
+
+body{
+    background-image:url(../img_suti/hatter.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color:lightblue;
+    text-align: center;
+}

@@ -1,21 +1,16 @@
 h1{
-    color: white;
+    color: aqua;
 }
 
 h2{
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
-    color: white;
+    color:aqua ;
 }
 
 body{
-    background-image:url(../img/hatter.jpg) ;
+    background-image:url(../img_kave/hatter.jpg) ;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
-}
-h2{
-    color: rgba(0, 0, 0, 0.877);
-    font-family: "Times New Roman", Times, serif;
-    
 }
